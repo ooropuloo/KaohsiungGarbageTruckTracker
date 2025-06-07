@@ -45,7 +45,7 @@ A web application to track Kaohsiung city garbage trucks in real-time. This proj
 ## APIs Used
 
 *   **Kaohsiung City Open Data API**: For fetching real-time garbage truck data.
-    *   Endpoint: `https://api.kcg.gov.tw/api/service/Get/aaf4ce4b-4ca8-43de-bfaf-6dc97e89cac0`
+    *   Endpoint: [Kaohsiung City Government API]
 *   **Google Gemini API**: For AI-powered insights and search grounding.
     *   Model: `gemini-2.5-flash-preview-04-17`
 
