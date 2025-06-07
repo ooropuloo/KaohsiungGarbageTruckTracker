@@ -45,7 +45,7 @@
 ## 使用的 API
 
 *   **高雄市政府開放資料 API**：用於獲取即時垃圾車數據。
-    *   端點：`https://api.kcg.gov.tw/api/service/Get/aaf4ce4b-4ca8-43de-bfaf-6dc97e89cac0`
+    *   端點：[Kaohsiung City Government API]
 *   **Google Gemini API**：用於 AI 驅動的洞見分析與基礎搜尋。
     *   模型：`gemini-2.5-flash-preview-04-17`
 
