@@ -1,0 +1,7 @@
+{
+  "name": "Kaohsiung Garbage Truck Tracker",
+  "description": "A web application to track Kaohsiung city garbage trucks in real-time, with enhanced features like watch lists, notifications, and LLM insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
